@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/play_widget/',
+  base: '/ai_widget/',
   build: {
     outDir: 'dist',      
     minify: false,        
